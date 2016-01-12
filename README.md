@@ -1,3 +1,5 @@
-RIR Rubis Omega
+# RIR Rubis Omega
 
-Code de programmation avance au : 12/01/16
+Avancement du projet : 12/01/16
+
+GestionInteruptionRobot.ino : permet de gerer le deplacement du robot sur la table de Jeu 
